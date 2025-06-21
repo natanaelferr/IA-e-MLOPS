@@ -1,5 +1,0 @@
-## IMAGE TO TEST THE MODEL ##
-## Place here the image to test the model, the image shall have the size of 28x28px
-## The image format tested is .png
-## The name of the image shall be: "imagemTest.png"
-## The code will convert the image in vector to work with
