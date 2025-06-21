@@ -1,2 +1,4 @@
-# IA-e-MLOPS
-Repositório com soluções inteligentes de ponta a ponta, combinando Inteligência Artificial aplicada à indústria com práticas robustas de MLOps e CI/CD. Inclui conceitos como: Digital Twins, Visão Computacional, Digital, Otimização, Logística com IA e Simulação.
+# ML-Kaggle-A_Z-Recognizer
+# Para acessar o csv usado como base de dados acesso o seguinte link
+# Link: https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
+# Mais informações sobre como carregar a imagem no README dentro de: "./ImageToTest/README"
