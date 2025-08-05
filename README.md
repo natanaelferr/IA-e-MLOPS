@@ -12,7 +12,7 @@ Cada subdiretório contém um projeto completo com código, documentação e ins
 | Projeto | Descrição | Status |
 |--------|-----------|--------|
 | [`CNN-HandwritingClassifier`](./CNN-HandwritingClassifier) | 🔠 Reconhecimento de letras manuscritas com redes neurais convolucionais (CNN) usando dados da Kaggle. | ✅ Finalizado |
-<!-- | `DigitalTwin-Fabrica` | 🏭 Simulação de um gêmeo digital para monitoramento e controle de uma linha de produção. | 🚧 Em desenvolvimento | -->
+| [`DigitalTwin-Fabrica`](./Digital%20Twin%20com%20Previsão%20de%20Falhas%20(Manutenção%20Preditiva)) | 🏭 Simulação de um gêmeo digital de um motor Turbofan para manutenção preditiva | 🚧 Em desenvolvimento |
 <!-- | `OCR-NotasFiscais` | 🧾 Leitura e extração de dados estruturados de imagens de notas fiscais com OCR + NLP. | 🚧 Em desenvolvimento | -->
 <!-- | `FinAI` | 📊 Análise preditiva de ações e ativos financeiros usando IA com LSTM e Prophet. | 🚧 Em desenvolvimento | -->
 <!-- | `SoccerVision` | ⚽ Visão computacional aplicada ao futebol: rastreamento de jogadores e estatísticas automáticas. | 🧪 Experimental | -->
